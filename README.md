@@ -1,16 +1,16 @@
 引入
 1.将下面代码添加到项目的根目录的build.gradle：
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
   
 1.将下面代码添加到app目录的build.gradle：
-	dependencies {
-	        compile 'com.github.huangbryant210707:HIjkPlayerView:1.0.0'
-	}
+dependencies {
+        compile 'com.github.huangbryant210707:HIjkPlayerView:1.0.0'
+}
 
 使用
 @Override
