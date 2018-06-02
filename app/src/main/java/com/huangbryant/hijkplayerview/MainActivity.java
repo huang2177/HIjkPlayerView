@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         Glide.with(this).load(IMAGE_URL).fitCenter().into(mPlayerView.mPlayerThumb);
         mPlayerView.init()
                 .setTitle("这是个跑马灯TextView，标题要足够长才会跑。-(゜ -゜)つロ 乾杯~")
-                .setSkipTip(1000*60*1)
+                .setSkipTip(1000 * 60 * 1)
                 .enableDanmaku()
                 .setDanmakuSource(getResources().openRawResource(R.raw.bili))
                 .setVideoSource(null, VIDEO_URL, VIDEO_HD_URL, null, null)
@@ -102,7 +102,6 @@ public class MainActivity extends AppCompatActivity {
         }
         super.onBackPressed();
     }
-
 
 
     @Override
