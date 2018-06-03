@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HIjkPlayerView.iml" filepath="$PROJECT_DIR$/HIjkPlayerView.iml" />
-      <module fileurl="file://D:\Android Dome\HIjkPlayerView\HIjkPlayerView.iml" filepath="D:\Android Dome\HIjkPlayerView\HIjkPlayerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\Android Dome\HIjkPlayerView\app\app.iml" filepath="D:\Android Dome\HIjkPlayerView\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
-      <module fileurl="file://D:\Android Dome\HIjkPlayerView\mylibrary\mylibrary.iml" filepath="D:\Android Dome\HIjkPlayerView\mylibrary\mylibrary.iml" />
     </modules>
   </component>
 </project>

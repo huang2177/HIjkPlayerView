@@ -10,7 +10,7 @@
     <com.huangbryant.mylibrary.media.HIjkPlayerView
         android:id="@+id/player_view"
         android:layout_width="match_parent"
-        android:layout_height="200dp"/>
+        android:layout_height="180dp"/>
 
     <TextView
         android:id="@+id/textView"

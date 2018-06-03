@@ -1068,7 +1068,7 @@ public class HIjkVideoView extends FrameLayout implements MediaController.MediaP
             // HIRenderView.AR_MATCH_PARENT,
             HIRenderView.AR_16_9_FIT_PARENT,
             HIRenderView.AR_4_3_FIT_PARENT};
-    private int mCurrentAspectRatio = s_allAspectRatio[0];
+    private int mCurrentAspectRatio = s_allAspectRatio[1];
 
     public void setAspectRatio(int aspectRatio) {
         mCurrentAspectRatio = aspectRatio;
