@@ -138,7 +138,7 @@ public class HIjkPlayerView extends FrameLayout implements View.OnClickListener 
     // 全屏下的TopBar
     private LinearLayout mFullscreenTopBar;
     // 窗口模式的后退键
-    private ImageView mIvBackWindow;
+    public ImageView mIvBackWindow;
     // 窗口模式的TopBar
     private FrameLayout mWindowTopBar;
     // 播放键
@@ -151,7 +151,7 @@ public class HIjkPlayerView extends FrameLayout implements View.OnClickListener 
     // 结束时间
     private TextView mTvEndTime;
     // 全屏切换按钮
-    private ImageView mIvFullscreen;
+    public ImageView mIvFullscreen;
     // BottomBar
     private LinearLayout mLlBottomBar;
     // 整个视频框架布局
